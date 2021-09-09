@@ -4,4 +4,7 @@
 
 *.csv
 *.csv.gz
+
+*.txt
+
 venv
